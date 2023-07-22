@@ -1,0 +1,15 @@
+.click-for-video {
+    width: 640px;
+    height: 480px;
+    cursor: pointer;
+  }
+   
+  .youtube {
+    width: 640px;
+    height: 480px;
+  }
+   
+  div.youtube {
+    display: none;
+  }
+  
